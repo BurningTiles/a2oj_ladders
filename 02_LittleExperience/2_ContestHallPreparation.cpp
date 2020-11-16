@@ -1,23 +1,19 @@
 /**
  * Author  : BurningTiles
- * Created : 2020-09-28 00:58:43
+ * Created : 2020-10-02 10:04:32
  * Link    : BurningTiles.github.io
- * Program : Omar
+ * Program : Contest Hall Preparation
 **/
 
 #include <bits/stdc++.h>
+#define endl '\n'
 using namespace std;
 
 int main(){
 	ios::sync_with_stdio(0);
 	cin.tie(0);
+
 	
-	int n, a, b;
-	cin >> n;
-	while(n--){
-		cin >> a >> b;
-		cout << a+b << "\n";
-	}
 
 	return 0;
 }
@@ -25,6 +21,6 @@ int main(){
 /**
 
 Question : 
-https://www.a2oj.com/p?ID=1
+https://www.a2oj.com/p?ID=22
 
 **/

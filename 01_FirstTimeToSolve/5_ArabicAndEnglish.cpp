@@ -1,7 +1,7 @@
 /**
- * Author  : BurninTiles
+ * Author  : BurningTiles
  * Created : 2020-09-28 01:52:08
- * Link    : GitHub.com/BurninTiles
+ * Link    : BurningTiles.github.io
  * Program : Arabic and English
 **/
 

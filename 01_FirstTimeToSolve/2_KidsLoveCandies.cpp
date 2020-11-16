@@ -1,7 +1,7 @@
 /**
- * Author  : BurninTiles
+ * Author  : BurningTiles
  * Created : 2020-09-28 01:06:57
- * Link    : GitHub.com/BurninTiles
+ * Link    : BurningTiles.github.io
  * Program : Kids Love Candies
 **/
 
